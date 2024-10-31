@@ -1,0 +1,29 @@
+
+.rs-stuffs {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.rs-stuffs .rs-stuff-photo {
+	float:left;
+	width: 40%;
+}
+
+.rs-stuffs .rs-stuff-photo img {
+	padding: 10px 10px;
+	border: 1px solid #5D6065;
+	min-height: 450px;
+	width: 100%;
+}
+
+.rs-stuffs .rs-stuff-details{
+	text-align: left;
+	float: left;
+	overflow: hidden;
+	width: 60%;
+	padding: 0 0 0 25px;
+	background: #FAFAFA;
+}
+
+.rs-stuffs 
